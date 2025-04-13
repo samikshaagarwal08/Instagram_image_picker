@@ -72,7 +72,6 @@
 //   }
 // }
 
-import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:instagram_image_picker/screens/post_upload_screen.dart';
 import 'package:instagram_image_picker/screens/reel_record_screen.dart';
